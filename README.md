@@ -17,6 +17,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Thanks for your time
 
-Author: [Mohammadmehdi Omidi](https://www.linkedin.com/in/mohammadmehdi-omidi/)
+Author: Mohammadmehdi Omidi
 
 I hope you found this notebook useful.
